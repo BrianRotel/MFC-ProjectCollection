@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/11/08 21:06:52。
+     1>项目“F:\Test\FileSearch_Test.7z\FileSearch_Test\FileSearch_Test\FileSearch_Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FileSearch_Test.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FileSearch.cpp
+         FileSearch.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Test\FileSearch_Test.7z\FileSearch_Test\Debug\FileSearch_Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Test\FileSearch_Test.7z\FileSearch_Test\Debug\FileSearch_Test.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Test\FileSearch_Test.7z\FileSearch_Test\Debug\FileSearch_Test.lib" /MACHINE:X86 Debug\FileSearch.obj
+         Debug\FileSearch_Test.obj
+         Debug\stdafx.obj
+         FileSearch_Test.vcxproj -> F:\Test\FileSearch_Test.7z\FileSearch_Test\Debug\FileSearch_Test.exe
+     1>已完成生成项目“F:\Test\FileSearch_Test.7z\FileSearch_Test\FileSearch_Test\FileSearch_Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
