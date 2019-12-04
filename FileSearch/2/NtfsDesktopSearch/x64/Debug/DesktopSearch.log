@@ -1,0 +1,47 @@
+﻿生成启动时间为 2019/11/08 22:24:29。
+     1>项目“C:\Users\Brian\Downloads\0_1284865312kT7Z\NtfsDesktopSearch\DesktopSearch.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt BasicSearch.cpp DesktopSearch.cpp DirBasicInfoMap.cpp DirFilterList.cpp ExtArray.cpp FilterCtrl.cpp Index.cpp MemoryMgr.cpp MemoryPool.cpp NameSort.cpp ntfs.cpp
+         BasicSearch.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>BasicSearch.cpp(14): warning C4309: “初始化”: 截断常量值
+         DesktopSearch.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         DirBasicInfoMap.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         DirFilterList.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>DirFilterList.cpp(288): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>DirFilterList.cpp(452): warning C4090: “初始化”: 不同的“__unaligned”限定符
+         ExtArray.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>ExtArray.cpp(381): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+         FilterCtrl.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         Index.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         MemoryMgr.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         MemoryPool.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         NameSort.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         ntfs.cpp
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(106): error C2065: “GWL_WNDPROC”: 未声明的标识符
+     1>c:\users\brian\downloads\0_1284865312kt7z\ntfsdesktopsearch\shell.h(122): error C2065: “GWL_WNDPROC”: 未声明的标识符
+         正在生成代码...
+     1>已完成生成项目“C:\Users\Brian\Downloads\0_1284865312kT7Z\NtfsDesktopSearch\DesktopSearch.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.77

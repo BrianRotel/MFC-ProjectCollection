@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/11/27 14:54:25。
+     1>项目“F:\MFC\test1\SearchFile\NtfsDesktopSearch\DesktopSearch.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DesktopSearch.cpp
+         DesktopSearch.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\MFC\test1\SearchFile\NtfsDesktopSearch\Debug\DesktopSearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\MFC\test1\SearchFile\NtfsDesktopSearch\Debug\DesktopSearch.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\MFC\test1\SearchFile\NtfsDesktopSearch\Debug\DesktopSearch.lib" /MACHINE:X86 /SAFESEH Debug\DesktopSearch.res
+         Debug\BasicSearch.obj
+         Debug\DesktopSearch.obj
+         Debug\DirBasicInfoMap.obj
+         Debug\DirFilterList.obj
+         Debug\ExtArray.obj
+         Debug\FilterCtrl.obj
+         Debug\Index.obj
+         Debug\MemoryMgr.obj
+         Debug\MemoryPool.obj
+         Debug\NameSort.obj
+         Debug\ntfs.obj
+         DesktopSearch.vcxproj -> F:\MFC\test1\SearchFile\NtfsDesktopSearch\Debug\DesktopSearch.exe
+     1>已完成生成项目“F:\MFC\test1\SearchFile\NtfsDesktopSearch\DesktopSearch.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.98
